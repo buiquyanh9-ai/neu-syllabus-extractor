@@ -1,0 +1,1214 @@
+{
+  "generated_at": "20260405_094947",
+  "summary": {
+    "total": 988,
+    "ok": 890,
+    "warn": 83,
+    "errors": 15,
+    "skipped": 0
+  },
+  "problem_files": [
+    {
+      "file": "Chuyên đề thực tế - Khoa học quản lý_QLKT1130.docx",
+      "code": "QLKT1130",
+      "qa": {
+        "is_ok": false,
+        "issues": [
+          "NO resources — danh sách tài liệu không parse được"
+        ],
+        "completeness_score": 95,
+        "needs_review": false
+      }
+    },
+    {
+      "file": "Chuyên đề thực tế - Kiểm toán_KTTC1122.docx",
+      "code": "KTTC1122",
+      "qa": {
+        "is_ok": false,
+        "issues": [
+          "NO instructors — bảng giảng viên không parse được"
+        ],
+        "completeness_score": 95,
+        "needs_review": false
+      }
+    },
+    {
+      "file": "Chuyên đề thực tế - Kế toán_KTTC1121.docx",
+      "code": "KTTC1121",
+      "qa": {
+        "is_ok": false,
+        "issues": [
+          "NO instructors — bảng giảng viên không parse được"
+        ],
+        "completeness_score": 95,
+        "needs_review": false
+      }
+    },
+    {
+      "file": "Chuyên đề thực tế - Quản lý công_QLXH1128.docx",
+      "code": "QLXH1128",
+      "qa": {
+        "is_ok": false,
+        "issues": [
+          "NO resources — danh sách tài liệu không parse được"
+        ],
+        "completeness_score": 95,
+        "needs_review": false
+      }
+    },
+    {
+      "file": "Chuyên đề thực tế - Quản trị kinh doanh_QTKD1152.docx",
+      "code": "QTKD1152",
+      "qa": {
+        "is_ok": false,
+        "issues": [
+          "NO instructors — bảng giảng viên không parse được"
+        ],
+        "completeness_score": 95,
+        "needs_review": false
+      }
+    },
+    {
+      "file": "Chính sách tài nguyên_TNTN1132.docx",
+      "code": "TNTN1132",
+      "qa": {
+        "is_ok": false,
+        "issues": [
+          "NO CLOs extracted — bảng CLO không parse được"
+        ],
+        "completeness_score": 80,
+        "needs_review": false
+      }
+    },
+    {
+      "file": "Chương trình ERP_EP23.TIKT1138.docx",
+      "code": "EP23.TIKT1138",
+      "qa": {
+        "is_ok": false,
+        "issues": [
+          "NO instructors — bảng giảng viên không parse được"
+        ],
+        "completeness_score": 95,
+        "needs_review": false
+      }
+    },
+    {
+      "file": "Corporate Finance_EP02.NHTC1120.docx",
+      "code": "EP02.NHTC1120",
+      "qa": {
+        "is_ok": false,
+        "issues": [
+          "NO goals extracted — bảng Mục tiêu không parse được",
+          "NO resources — danh sách tài liệu không parse được"
+        ],
+        "completeness_score": 90,
+        "needs_review": false
+      }
+    },
+    {
+      "file": "Data Science in Business and Economics_EP28.TOKT1138.docx",
+      "code": "EP28.TOKT1138",
+      "qa": {
+        "is_ok": false,
+        "issues": [
+          "NO goals extracted — bảng Mục tiêu không parse được",
+          "NO instructors — bảng giảng viên không parse được"
+        ],
+        "completeness_score": 90,
+        "needs_review": false
+      }
+    },
+    {
+      "file": "Data Science in Economics and Busines_EP26.TOKT1138.docx",
+      "code": "EP26.TOKT1138",
+      "qa": {
+        "is_ok": false,
+        "issues": [
+          "NO goals extracted — bảng Mục tiêu không parse được"
+        ],
+        "completeness_score": 95,
+        "needs_review": false
+      }
+    },
+    {
+      "file": "English.docx",
+      "code": "",
+      "qa": {
+        "is_ok": false,
+        "issues": [
+          "MISSING course_code",
+          "MISSING credits",
+          "NO CLOs extracted — bảng CLO không parse được",
+          "NO instructors — bảng giảng viên không parse được"
+        ],
+        "completeness_score": 40,
+        "needs_review": true
+      }
+    },
+    {
+      "file": "Econometrics 1_EP23.TOKT1101.docx",
+      "code": "EP23.TOKT1101",
+      "qa": {
+        "is_ok": false,
+        "issues": [
+          "NO goals extracted — bảng Mục tiêu không parse được",
+          "NO instructors — bảng giảng viên không parse được"
+        ],
+        "completeness_score": 90,
+        "needs_review": false
+      }
+    },
+    {
+      "file": "Giáo dục quốc phòng và an ninh_GDQP.docx",
+      "code": "",
+      "qa": {
+        "is_ok": false,
+        "issues": [
+          "MISSING course_code",
+          "NO instructors — bảng giảng viên không parse được",
+          "NO assessments — bảng đánh giá không parse được"
+        ],
+        "completeness_score": 65,
+        "needs_review": false
+      }
+    },
+    {
+      "file": "Giáo dục thể chất 1_GDTC.docx",
+      "code": "",
+      "qa": {
+        "is_ok": false,
+        "issues": [
+          "MISSING course_code"
+        ],
+        "completeness_score": 75,
+        "needs_review": false
+      }
+    },
+    {
+      "file": "Introduction to International Law.docx",
+      "code": "",
+      "qa": {
+        "is_ok": false,
+        "issues": [
+          "MISSING course_code"
+        ],
+        "completeness_score": 75,
+        "needs_review": false
+      }
+    },
+    {
+      "file": "Khoa học dữ liệu cơ bản trong kinh tế và kinh doanh_FDA61201V.docx",
+      "code": "FDA.6.1.2.01.V",
+      "qa": {
+        "is_ok": false,
+        "issues": [
+          "NO assessments — bảng đánh giá không parse được"
+        ],
+        "completeness_score": 95,
+        "needs_review": false
+      }
+    },
+    {
+      "file": "Khóa luận tốt nghiệp - Khoa học quản lý_QLKT1129.docx",
+      "code": "QLKT1129",
+      "qa": {
+        "is_ok": false,
+        "issues": [
+          "NO instructors — bảng giảng viên không parse được",
+          "NO resources — danh sách tài liệu không parse được"
+        ],
+        "completeness_score": 90,
+        "needs_review": false
+      }
+    },
+    {
+      "file": "Khóa luận tốt nghiệp - Ngôn ngữ Anh_NNTM1174.docx",
+      "code": "NNTM1174",
+      "qa": {
+        "is_ok": false,
+        "issues": [
+          "NO assessments — bảng đánh giá không parse được"
+        ],
+        "completeness_score": 95,
+        "needs_review": false
+      }
+    },
+    {
+      "file": "Khóa luận tốt nghiệp - Marketing_MKMA1167.docx",
+      "code": "MKMA1167",
+      "qa": {
+        "is_ok": false,
+        "issues": [
+          "NO instructors — bảng giảng viên không parse được"
+        ],
+        "completeness_score": 95,
+        "needs_review": false
+      }
+    },
+    {
+      "file": "Khóa luận tốt nghiệp - Quản lý công_QLXH1127.docx",
+      "code": "QLXH1127",
+      "qa": {
+        "is_ok": false,
+        "issues": [
+          "NO resources — danh sách tài liệu không parse được"
+        ],
+        "completeness_score": 95,
+        "needs_review": false
+      }
+    },
+    {
+      "file": "Khóa luận tốt nghiệp - Quản trị kinh doanh_QTKD1150.docx",
+      "code": "QTKD1150",
+      "qa": {
+        "is_ok": false,
+        "issues": [
+          "NO instructors — bảng giảng viên không parse được"
+        ],
+        "completeness_score": 95,
+        "needs_review": false
+      }
+    },
+    {
+      "file": "Khóa luận tốt nghiệp - Quản trị khách sạn_DLKS1155.docx",
+      "code": "DLKS1155",
+      "qa": {
+        "is_ok": false,
+        "issues": [
+          "NO weeks — bảng kế hoạch dạy học không parse được"
+        ],
+        "completeness_score": 95,
+        "needs_review": false
+      }
+    },
+    {
+      "file": "Khóa luận tốt nghiệp - Toán kinh tế_TOKT1150.docx",
+      "code": "TOKT1150",
+      "qa": {
+        "is_ok": false,
+        "issues": [
+          "NO weeks — bảng kế hoạch dạy học không parse được"
+        ],
+        "completeness_score": 95,
+        "needs_review": false
+      }
+    },
+    {
+      "file": "Khởi nghiệp kinh doanh nông nghiệp_TNKT1151.docx",
+      "code": "TNKT1151",
+      "qa": {
+        "is_ok": false,
+        "issues": [
+          "NO CLOs extracted — bảng CLO không parse được"
+        ],
+        "completeness_score": 80,
+        "needs_review": false
+      }
+    },
+    {
+      "file": "Kinh tế năng lượng_TNTN1144.docx",
+      "code": "TNTN1144",
+      "qa": {
+        "is_ok": false,
+        "issues": [
+          "NO CLOs extracted — bảng CLO không parse được"
+        ],
+        "completeness_score": 80,
+        "needs_review": false
+      }
+    },
+    {
+      "file": "Kinh tế quốc tế_TMKQ1129.docx",
+      "code": "TMKQ1129",
+      "qa": {
+        "is_ok": false,
+        "issues": [
+          "NO weeks — bảng kế hoạch dạy học không parse được"
+        ],
+        "completeness_score": 95,
+        "needs_review": false
+      }
+    },
+    {
+      "file": "Kinh tế vi mô 1_EP18.KHMI1101.docx",
+      "code": "EP18.KHMI1101",
+      "qa": {
+        "is_ok": false,
+        "issues": [
+          "NO goals extracted — bảng Mục tiêu không parse được"
+        ],
+        "completeness_score": 95,
+        "needs_review": false
+      }
+    },
+    {
+      "file": "Kinh tế vi mô 1_EP26.KHMI1101.docx",
+      "code": "EP26.KHMI1101",
+      "qa": {
+        "is_ok": false,
+        "issues": [
+          "NO goals extracted — bảng Mục tiêu không parse được"
+        ],
+        "completeness_score": 95,
+        "needs_review": false
+      }
+    },
+    {
+      "file": "Kinh tế vi mô 1_EP24.KHMI1101.docx",
+      "code": "EP24.KHMI1101",
+      "qa": {
+        "is_ok": false,
+        "issues": [
+          "NO instructors — bảng giảng viên không parse được"
+        ],
+        "completeness_score": 95,
+        "needs_review": false
+      }
+    },
+    {
+      "file": "Kinh tế vi mô_EP14.KHMI1101.docx",
+      "code": "",
+      "qa": {
+        "is_ok": false,
+        "issues": [
+          "PARSE ERROR: \"no relationship of type 'http://schemas.openxmlformats.org/officeDocument/2006/relationships/officeDocument' in collection\""
+        ],
+        "completeness_score": 0,
+        "needs_review": true
+      }
+    },
+    {
+      "file": "Kinh tế vi mô_EP19.KHMI1101.docx",
+      "code": "",
+      "qa": {
+        "is_ok": false,
+        "issues": [
+          "PARSE ERROR: \"no relationship of type 'http://schemas.openxmlformats.org/officeDocument/2006/relationships/officeDocument' in collection\""
+        ],
+        "completeness_score": 0,
+        "needs_review": true
+      }
+    },
+    {
+      "file": "Kinh tế vi mô 2_EP24.KHMI1102.docx",
+      "code": "EP24.KHMI1102",
+      "qa": {
+        "is_ok": false,
+        "issues": [
+          "NO instructors — bảng giảng viên không parse được"
+        ],
+        "completeness_score": 95,
+        "needs_review": false
+      }
+    },
+    {
+      "file": "Kinh tế vi mô 1_EP32.KHMI1101.docx",
+      "code": "EP32.KHMI1101",
+      "qa": {
+        "is_ok": false,
+        "issues": [
+          "NO instructors — bảng giảng viên không parse được",
+          "NO weeks — bảng kế hoạch dạy học không parse được"
+        ],
+        "completeness_score": 90,
+        "needs_review": false
+      }
+    },
+    {
+      "file": "Kinh tế vi mô_EP23.KHMI1101.docx",
+      "code": "EP23.KHMI1101",
+      "qa": {
+        "is_ok": false,
+        "issues": [
+          "NO instructors — bảng giảng viên không parse được"
+        ],
+        "completeness_score": 95,
+        "needs_review": false
+      }
+    },
+    {
+      "file": "Kinh tế và quản lý phát triển cộng đồng_TNKT1140.docx",
+      "code": "TNKT1140",
+      "qa": {
+        "is_ok": false,
+        "issues": [
+          "NO CLOs extracted — bảng CLO không parse được"
+        ],
+        "completeness_score": 80,
+        "needs_review": false
+      }
+    },
+    {
+      "file": "Kinh tế vĩ mô 1_EP18.KHMA1101.docx",
+      "code": "EP18.KHMA1101",
+      "qa": {
+        "is_ok": false,
+        "issues": [
+          "NO instructors — bảng giảng viên không parse được"
+        ],
+        "completeness_score": 95,
+        "needs_review": false
+      }
+    },
+    {
+      "file": "Kinh tế vĩ mô 1_EP26.KHMA1101.docx",
+      "code": "EP26.KHMA1101",
+      "qa": {
+        "is_ok": false,
+        "issues": [
+          "NO instructors — bảng giảng viên không parse được"
+        ],
+        "completeness_score": 95,
+        "needs_review": false
+      }
+    },
+    {
+      "file": "Kinh tế vĩ mô 1_EP28.KHMA1101.docx",
+      "code": "EP28.KHMA1101",
+      "qa": {
+        "is_ok": false,
+        "issues": [
+          "NO instructors — bảng giảng viên không parse được",
+          "NO weeks — bảng kế hoạch dạy học không parse được"
+        ],
+        "completeness_score": 90,
+        "needs_review": false
+      }
+    },
+    {
+      "file": "Kinh tế vĩ mô 1_EP32.KHMA1101.docx",
+      "code": "EP32.KHMA1101",
+      "qa": {
+        "is_ok": false,
+        "issues": [
+          "NO instructors — bảng giảng viên không parse được",
+          "NO weeks — bảng kế hoạch dạy học không parse được"
+        ],
+        "completeness_score": 90,
+        "needs_review": false
+      }
+    },
+    {
+      "file": "Kinh tế vĩ mô 2_EP24.KHMA1102.docx",
+      "code": "EP24",
+      "qa": {
+        "is_ok": false,
+        "issues": [
+          "NO instructors — bảng giảng viên không parse được"
+        ],
+        "completeness_score": 95,
+        "needs_review": false
+      }
+    },
+    {
+      "file": "Kinh tế vĩ mô_EP14.KHMA1101.docx",
+      "code": "EP14.KHMA1101",
+      "qa": {
+        "is_ok": false,
+        "issues": [
+          "NO instructors — bảng giảng viên không parse được"
+        ],
+        "completeness_score": 95,
+        "needs_review": false
+      }
+    },
+    {
+      "file": "Luật kinh doanh_EP26.LUKD1118.docx",
+      "code": "EP26.LUKD1118",
+      "qa": {
+        "is_ok": false,
+        "issues": [
+          "NO instructors — bảng giảng viên không parse được"
+        ],
+        "completeness_score": 95,
+        "needs_review": false
+      }
+    },
+    {
+      "file": "Lý thuyết tài chính tiền tệ 1_EP31.NHLT1101.docx",
+      "code": "EP31.NHLT1101",
+      "qa": {
+        "is_ok": false,
+        "issues": [
+          "NO goals extracted — bảng Mục tiêu không parse được",
+          "NO instructors — bảng giảng viên không parse được"
+        ],
+        "completeness_score": 90,
+        "needs_review": false
+      }
+    },
+    {
+      "file": "Lý thuyết tiền tệ và tài chính_EP32.NHLT1107.docx",
+      "code": "EP32.NHLT1107",
+      "qa": {
+        "is_ok": false,
+        "issues": [
+          "NO instructors — bảng giảng viên không parse được"
+        ],
+        "completeness_score": 95,
+        "needs_review": false
+      }
+    },
+    {
+      "file": "Lý thuyết xác suất_EP32.TOKT1105.docx",
+      "code": "EP32.TOKT1105",
+      "qa": {
+        "is_ok": false,
+        "issues": [
+          "NO goals extracted — bảng Mục tiêu không parse được"
+        ],
+        "completeness_score": 95,
+        "needs_review": false
+      }
+    },
+    {
+      "file": "Lập trình Python_EP23.CNTT1180.docx",
+      "code": "EP23.CNTT1180",
+      "qa": {
+        "is_ok": false,
+        "issues": [
+          "NO instructors — bảng giảng viên không parse được"
+        ],
+        "completeness_score": 95,
+        "needs_review": false
+      }
+    },
+    {
+      "file": "Machine Learning 1_EP23.TOKT1150.docx",
+      "code": "EP23.TOKT1150",
+      "qa": {
+        "is_ok": false,
+        "issues": [
+          "NO goals extracted — bảng Mục tiêu không parse được",
+          "NO instructors — bảng giảng viên không parse được"
+        ],
+        "completeness_score": 90,
+        "needs_review": false
+      }
+    },
+    {
+      "file": "Marketing quốc tế_EP28.MKMA1108.docx",
+      "code": "EP28.MKMA1108",
+      "qa": {
+        "is_ok": false,
+        "issues": [
+          "NO instructors — bảng giảng viên không parse được"
+        ],
+        "completeness_score": 95,
+        "needs_review": false
+      }
+    },
+    {
+      "file": "Ngoại ngữ 1_EP23.NNKC1131.docx",
+      "code": "EP23.NNKC1131",
+      "qa": {
+        "is_ok": false,
+        "issues": [
+          "NO instructors — bảng giảng viên không parse được",
+          "NO weeks — bảng kế hoạch dạy học không parse được"
+        ],
+        "completeness_score": 90,
+        "needs_review": false
+      }
+    },
+    {
+      "file": "Ngoại ngữ 1-2-3_EP26.NNKC1131.docx",
+      "code": "EP26.NNKC1132",
+      "qa": {
+        "is_ok": false,
+        "issues": [
+          "NO instructors — bảng giảng viên không parse được"
+        ],
+        "completeness_score": 95,
+        "needs_review": false
+      }
+    },
+    {
+      "file": "Ngoại ngữ 2.2 (Tiếng Trung 2)_NNKC1129.docx",
+      "code": "NNKC1129",
+      "qa": {
+        "is_ok": false,
+        "issues": [
+          "NO CLOs extracted — bảng CLO không parse được"
+        ],
+        "completeness_score": 80,
+        "needs_review": false
+      }
+    },
+    {
+      "file": "Ngoại ngữ 2.3 (Tiếng Trung 3)_NNKC1130.docx",
+      "code": "NNKC1130",
+      "qa": {
+        "is_ok": false,
+        "issues": [
+          "NO CLOs extracted — bảng CLO không parse được"
+        ],
+        "completeness_score": 80,
+        "needs_review": false
+      }
+    },
+    {
+      "file": "Nguyên lý bảo hiểm_EP31.BHKT1118.docx",
+      "code": "",
+      "qa": {
+        "is_ok": false,
+        "issues": [
+          "PARSE ERROR: \"no relationship of type 'http://schemas.openxmlformats.org/officeDocument/2006/relationships/officeDocument' in collection\""
+        ],
+        "completeness_score": 0,
+        "needs_review": true
+      }
+    },
+    {
+      "file": "Nguyên lý Marketing_EP32.MKMA1104.docx",
+      "code": "EP32.MKMA1104",
+      "qa": {
+        "is_ok": false,
+        "issues": [
+          "NO instructors — bảng giảng viên không parse được"
+        ],
+        "completeness_score": 95,
+        "needs_review": false
+      }
+    },
+    {
+      "file": "Nguyên lý giá cả thị trường và TĐG_EP31.SBF1105.docx",
+      "code": "EP31",
+      "qa": {
+        "is_ok": false,
+        "issues": [
+          "NO goals extracted — bảng Mục tiêu không parse được",
+          "NO instructors — bảng giảng viên không parse được"
+        ],
+        "completeness_score": 90,
+        "needs_review": false
+      }
+    },
+    {
+      "file": "Nguyên lý kế toán_EP18.KTKE1101.docx",
+      "code": "EP18.KTKE1101",
+      "qa": {
+        "is_ok": false,
+        "issues": [
+          "NO goals extracted — bảng Mục tiêu không parse được",
+          "NO instructors — bảng giảng viên không parse được"
+        ],
+        "completeness_score": 90,
+        "needs_review": false
+      }
+    },
+    {
+      "file": "Nguyên lý kế toán_EP26.KTKE1101.docx",
+      "code": "EP26.KTKE11",
+      "qa": {
+        "is_ok": false,
+        "issues": [
+          "NO goals extracted — bảng Mục tiêu không parse được",
+          "NO instructors — bảng giảng viên không parse được"
+        ],
+        "completeness_score": 90,
+        "needs_review": false
+      }
+    },
+    {
+      "file": "Nguyên lý kế toán_EP32.KTKE1101.docx",
+      "code": "EP32.KTKE1101",
+      "qa": {
+        "is_ok": false,
+        "issues": [
+          "NO instructors — bảng giảng viên không parse được"
+        ],
+        "completeness_score": 95,
+        "needs_review": false
+      }
+    },
+    {
+      "file": "Nguyên lý kế toán_KTKE1101.docx",
+      "code": "KTKE1101",
+      "qa": {
+        "is_ok": false,
+        "issues": [
+          "NO goals extracted — bảng Mục tiêu không parse được"
+        ],
+        "completeness_score": 95,
+        "needs_review": false
+      }
+    },
+    {
+      "file": "Nguyên lý kế toán_EP31.KTKE1101.docx",
+      "code": "EP31.KTKE1001",
+      "qa": {
+        "is_ok": false,
+        "issues": [
+          "MISSING credits",
+          "NO instructors — bảng giảng viên không parse được"
+        ],
+        "completeness_score": 85,
+        "needs_review": false
+      }
+    },
+    {
+      "file": "Ngân hàng thương mại 1_EP31.NHTM1102.docx",
+      "code": "EP31.NHTM1102",
+      "qa": {
+        "is_ok": false,
+        "issues": [
+          "NO instructors — bảng giảng viên không parse được"
+        ],
+        "completeness_score": 95,
+        "needs_review": false
+      }
+    },
+    {
+      "file": "Ngân hàng thương mại 2_EP31.NHTM1111.docx",
+      "code": "EP31.NHTM1111",
+      "qa": {
+        "is_ok": false,
+        "issues": [
+          "NO instructors — bảng giảng viên không parse được"
+        ],
+        "completeness_score": 95,
+        "needs_review": false
+      }
+    },
+    {
+      "file": "Ngân hàng thương mại_EP29.NHTM1121.docx",
+      "code": "EP29.NHTM1121",
+      "qa": {
+        "is_ok": false,
+        "issues": [
+          "NO instructors — bảng giảng viên không parse được",
+          "NO weeks — bảng kế hoạch dạy học không parse được"
+        ],
+        "completeness_score": 90,
+        "needs_review": false
+      }
+    },
+    {
+      "file": "Những điều cần biết về Quản lý 1_QLKT1101.docx",
+      "code": "QLKT1101",
+      "qa": {
+        "is_ok": false,
+        "issues": [
+          "NO instructors — bảng giảng viên không parse được"
+        ],
+        "completeness_score": 95,
+        "needs_review": false
+      }
+    },
+    {
+      "file": "Pháp luật đại cương_EP18.LUCS1129.docx",
+      "code": "EP18.LUCS1129",
+      "qa": {
+        "is_ok": false,
+        "issues": [
+          "NO assessments — bảng đánh giá không parse được"
+        ],
+        "completeness_score": 95,
+        "needs_review": false
+      }
+    },
+    {
+      "file": "Phát triển quốc tế_EP25.PLD1117.docx",
+      "code": "EP25.PLD1117",
+      "qa": {
+        "is_ok": false,
+        "issues": [
+          "NO resources — danh sách tài liệu không parse được"
+        ],
+        "completeness_score": 95,
+        "needs_review": false
+      }
+    },
+    {
+      "file": "Phương pháp nghiên cứu kinh tế - xã hội_PTCC1128.docx",
+      "code": "",
+      "qa": {
+        "is_ok": false,
+        "issues": [
+          "PARSE ERROR: File is not a zip file"
+        ],
+        "completeness_score": 0,
+        "needs_review": true
+      }
+    },
+    {
+      "file": "Phương trình vi phân riêng_TOCB1101.docx",
+      "code": "",
+      "qa": {
+        "is_ok": false,
+        "issues": [
+          "PARSE ERROR: \"no relationship of type 'http://schemas.openxmlformats.org/officeDocument/2006/relationships/officeDocument' in collection\""
+        ],
+        "completeness_score": 0,
+        "needs_review": true
+      }
+    },
+    {
+      "file": "Phương trình vi phân_TOCB1101.docx",
+      "code": "",
+      "qa": {
+        "is_ok": false,
+        "issues": [
+          "PARSE ERROR: \"no relationship of type 'http://schemas.openxmlformats.org/officeDocument/2006/relationships/officeDocument' in collection\""
+        ],
+        "completeness_score": 0,
+        "needs_review": true
+      }
+    },
+    {
+      "file": "Quản lý dịch vụ giải trí_EP18.DLLH1159.docx",
+      "code": "EP18.DLLH1159",
+      "qa": {
+        "is_ok": false,
+        "issues": [
+          "NO assessments — bảng đánh giá không parse được"
+        ],
+        "completeness_score": 95,
+        "needs_review": false
+      }
+    },
+    {
+      "file": "Quản lý thay đổi_QLKT1128.docx",
+      "code": "QLKT1128",
+      "qa": {
+        "is_ok": false,
+        "issues": [
+          "NO goals extracted — bảng Mục tiêu không parse được"
+        ],
+        "completeness_score": 95,
+        "needs_review": false
+      }
+    },
+    {
+      "file": "Quản lý điểm đến du lịch_EP11.DLLH1145.docx",
+      "code": "",
+      "qa": {
+        "is_ok": false,
+        "issues": [
+          "PARSE ERROR: \"no relationship of type 'http://schemas.openxmlformats.org/officeDocument/2006/relationships/officeDocument' in collection\""
+        ],
+        "completeness_score": 0,
+        "needs_review": true
+      }
+    },
+    {
+      "file": "Quản trị chiến lược_EP26.QTKD1104.docx",
+      "code": "EP26.QTKD1104",
+      "qa": {
+        "is_ok": false,
+        "issues": [
+          "NO instructors — bảng giảng viên không parse được"
+        ],
+        "completeness_score": 95,
+        "needs_review": false
+      }
+    },
+    {
+      "file": "Quản trị kinh doanh 1_EP28.QTTH1102.docx",
+      "code": "",
+      "qa": {
+        "is_ok": false,
+        "issues": [
+          "PARSE ERROR: \"no relationship of type 'http://schemas.openxmlformats.org/officeDocument/2006/relationships/officeDocument' in collection\""
+        ],
+        "completeness_score": 0,
+        "needs_review": true
+      }
+    },
+    {
+      "file": "Quản trị kinh doanh 1_EP32.QTTH1102.docx",
+      "code": "EP32.QTTH1102",
+      "qa": {
+        "is_ok": false,
+        "issues": [
+          "NO instructors — bảng giảng viên không parse được"
+        ],
+        "completeness_score": 95,
+        "needs_review": false
+      }
+    },
+    {
+      "file": "Quản trị kinh doanh 1_EP19.QTTH1102.docx",
+      "code": "EP19.QTTH1102",
+      "qa": {
+        "is_ok": false,
+        "issues": [
+          "MISSING course_description"
+        ],
+        "completeness_score": 90,
+        "needs_review": false
+      }
+    },
+    {
+      "file": "Quản trị kinh doanh nông nghiệp_TNKT1158.docx",
+      "code": "TNKT1158",
+      "qa": {
+        "is_ok": false,
+        "issues": [
+          "NO CLOs extracted — bảng CLO không parse được"
+        ],
+        "completeness_score": 80,
+        "needs_review": false
+      }
+    },
+    {
+      "file": "Quản trị sản phẩm_MKMA1164.docx",
+      "code": "MKMA1164",
+      "qa": {
+        "is_ok": false,
+        "issues": [
+          "NO instructors — bảng giảng viên không parse được"
+        ],
+        "completeness_score": 95,
+        "needs_review": false
+      }
+    },
+    {
+      "file": "Thẩm định giá doanh nghiệp 1_EP31.SBF1109.docx",
+      "code": "EP31.SBF1109",
+      "qa": {
+        "is_ok": false,
+        "issues": [
+          "NO goals extracted — bảng Mục tiêu không parse được",
+          "NO instructors — bảng giảng viên không parse được"
+        ],
+        "completeness_score": 90,
+        "needs_review": false
+      }
+    },
+    {
+      "file": "Thẩm định giá thiết bị, máy móc_EP31.SBF1112.docx",
+      "code": "EP31.SBF1112",
+      "qa": {
+        "is_ok": false,
+        "issues": [
+          "NO goals extracted — bảng Mục tiêu không parse được",
+          "NO instructors — bảng giảng viên không parse được"
+        ],
+        "completeness_score": 90,
+        "needs_review": false
+      }
+    },
+    {
+      "file": "Thẩm định giá doanh nghiệp 2_EP31.SBF1110.docx",
+      "code": "EP31.SBF1110",
+      "qa": {
+        "is_ok": false,
+        "issues": [
+          "NO goals extracted — bảng Mục tiêu không parse được",
+          "NO instructors — bảng giảng viên không parse được"
+        ],
+        "completeness_score": 90,
+        "needs_review": false
+      }
+    },
+    {
+      "file": "Thẩm định giá tài sản vô hình_EP31.SBF1111.docx",
+      "code": "EP31.SBF1111",
+      "qa": {
+        "is_ok": false,
+        "issues": [
+          "NO goals extracted — bảng Mục tiêu không parse được",
+          "NO instructors — bảng giảng viên không parse được"
+        ],
+        "completeness_score": 90,
+        "needs_review": false
+      }
+    },
+    {
+      "file": "Thực tập_EP18.DLKS1169.docx",
+      "code": "EP18.DLKS1169",
+      "qa": {
+        "is_ok": false,
+        "issues": [
+          "NO instructors — bảng giảng viên không parse được"
+        ],
+        "completeness_score": 95,
+        "needs_review": false
+      }
+    },
+    {
+      "file": "Tiếng Anh 1_EP24.ECO1116.docx",
+      "code": "",
+      "qa": {
+        "is_ok": false,
+        "issues": [
+          "PARSE ERROR: file '<_io.BytesIO object at 0x000001B0A5F85990>' is not a Word file, content type is 'application/vnd.openxmlformats-officedocument.themeManager+xml'"
+        ],
+        "completeness_score": 0,
+        "needs_review": true
+      }
+    },
+    {
+      "file": "Tiếng Anh 2_EP24.ECO1117.docx",
+      "code": "",
+      "qa": {
+        "is_ok": false,
+        "issues": [
+          "PARSE ERROR: file '<_io.BytesIO object at 0x000001B0A5F858A0>' is not a Word file, content type is 'application/vnd.openxmlformats-officedocument.themeManager+xml'"
+        ],
+        "completeness_score": 0,
+        "needs_review": true
+      }
+    },
+    {
+      "file": "Tiếng Anh 3_EP24.ECO1118.docx",
+      "code": "",
+      "qa": {
+        "is_ok": false,
+        "issues": [
+          "PARSE ERROR: file '<_io.BytesIO object at 0x000001B0A90C2F70>' is not a Word file, content type is 'application/vnd.openxmlformats-officedocument.themeManager+xml'"
+        ],
+        "completeness_score": 0,
+        "needs_review": true
+      }
+    },
+    {
+      "file": "Tiếng Anh 1_EP28.NNKC1131.docx",
+      "code": "EP28.NNKC1131",
+      "qa": {
+        "is_ok": false,
+        "issues": [
+          "NO instructors — bảng giảng viên không parse được",
+          "NO weeks — bảng kế hoạch dạy học không parse được"
+        ],
+        "completeness_score": 90,
+        "needs_review": false
+      }
+    },
+    {
+      "file": "Tiếng Anh học thuật_EP31.SBF1114.docx",
+      "code": "",
+      "qa": {
+        "is_ok": false,
+        "issues": [
+          "PARSE ERROR: file '<_io.BytesIO object at 0x000001B0A5FA8680>' is not a Word file, content type is 'application/vnd.openxmlformats-officedocument.themeManager+xml'"
+        ],
+        "completeness_score": 0,
+        "needs_review": true
+      }
+    },
+    {
+      "file": "Tiếng Anh kinh doanh_EP31.SBF1115.docx",
+      "code": "",
+      "qa": {
+        "is_ok": false,
+        "issues": [
+          "PARSE ERROR: file '<_io.BytesIO object at 0x000001B0A8FEFE20>' is not a Word file, content type is 'application/vnd.openxmlformats-officedocument.themeManager+xml'"
+        ],
+        "completeness_score": 0,
+        "needs_review": true
+      }
+    },
+    {
+      "file": "Toán kinh doanh_EP14.1115.docx",
+      "code": "",
+      "qa": {
+        "is_ok": false,
+        "issues": [
+          "PARSE ERROR: \"no relationship of type 'http://schemas.openxmlformats.org/officeDocument/2006/relationships/officeDocument' in collection\""
+        ],
+        "completeness_score": 0,
+        "needs_review": true
+      }
+    },
+    {
+      "file": "Toán kinh tế_EP18.TOCB1110.docx",
+      "code": "EP18.TOCB1110",
+      "qa": {
+        "is_ok": false,
+        "issues": [
+          "NO instructors — bảng giảng viên không parse được"
+        ],
+        "completeness_score": 95,
+        "needs_review": false
+      }
+    },
+    {
+      "file": "Toán kinh tế_EP26.TOCB1110.docx",
+      "code": "EP26.TOCB1110",
+      "qa": {
+        "is_ok": false,
+        "issues": [
+          "NO instructors — bảng giảng viên không parse được"
+        ],
+        "completeness_score": 95,
+        "needs_review": false
+      }
+    },
+    {
+      "file": "Tài chính doanh nghiệp_NHTC1120.docx",
+      "code": "NHTC1120",
+      "qa": {
+        "is_ok": false,
+        "issues": [
+          "NO CLOs extracted — bảng CLO không parse được"
+        ],
+        "completeness_score": 80,
+        "needs_review": false
+      }
+    },
+    {
+      "file": "Tối ưu hóa_TOKT1144.docx",
+      "code": "TOKT1144",
+      "qa": {
+        "is_ok": false,
+        "issues": [
+          "NO goals extracted — bảng Mục tiêu không parse được",
+          "NO weeks — bảng kế hoạch dạy học không parse được"
+        ],
+        "completeness_score": 90,
+        "needs_review": false
+      }
+    },
+    {
+      "file": "Tổ chức và phân tích ngành hàng nông sản_TNKT1143.docx",
+      "code": "TNKT1143",
+      "qa": {
+        "is_ok": false,
+        "issues": [
+          "NO CLOs extracted — bảng CLO không parse được"
+        ],
+        "completeness_score": 80,
+        "needs_review": false
+      }
+    },
+    {
+      "file": "Văn hóa và phát triển_EP25.PLD1110.docx",
+      "code": "EP25.PLD1110",
+      "qa": {
+        "is_ok": false,
+        "issues": [
+          "NO resources — danh sách tài liệu không parse được"
+        ],
+        "completeness_score": 95,
+        "needs_review": false
+      }
+    },
+    {
+      "file": "Đánh giá lỗ hổng bảo mật và kiểm thử xâm nhập_CNTT11102.docx",
+      "code": "CNTT11102",
+      "qa": {
+        "is_ok": false,
+        "issues": [
+          "NO goals extracted — bảng Mục tiêu không parse được"
+        ],
+        "completeness_score": 95,
+        "needs_review": false
+      }
+    },
+    {
+      "file": "Đề án Lý thuyết tài chính tiền tệ_EP31.NHTL1108.docx",
+      "code": "",
+      "qa": {
+        "is_ok": false,
+        "issues": [
+          "PARSE ERROR: \"no relationship of type 'http://schemas.openxmlformats.org/officeDocument/2006/relationships/officeDocument' in collection\""
+        ],
+        "completeness_score": 0,
+        "needs_review": true
+      }
+    }
+  ]
+}
